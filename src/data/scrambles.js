@@ -583,7 +583,7 @@ export const scrambles = {
     category: "OLL",
     moves: "L (R U R' U' R' F R F') L'",
     scramble: "F' U R' U' R' U' F U' R U F' R' U R U R F ",
-    url: "src/assets/1.png"
+    url: "/1.png"
   },
   2: {
     id: 2,
@@ -591,7 +591,7 @@ export const scrambles = {
     category: "OLL",
     moves: "L (F R' F' R U R U' R') L'",
     scramble: "R' U F' U R' F R U R' U' F' U R U2' F U' R",
-    url: "src/assets/2.png"
+    url: "/2.png"
   },
   3: {
     id: 3,
@@ -599,7 +599,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U) (R U R' U2') R U' R'",
     scramble: "F R' F' R U F' U' F U2 R U' R' U' R U' R'",
-    url: "src/assets/3.png"
+    url: "/3.png"
   },
   4: {
     id: 4,
@@ -607,7 +607,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R bR R' F R bR' R' F'",
     scramble: "R' U2 R F U2 F' R' U F U2 F' U2' R",
-    url: "src/assets/4.png"
+    url: "/4.png"
   },
   5: {
     id: 5,
@@ -615,7 +615,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2' R' U' R U2' R'",
     scramble: "R U F' R U F U2 R' U' R U' F' U' R' F U' R'",
-    url: "src/assets/5.png"
+    url: "/5.png"
   },
   6: {
     id: 6,
@@ -623,7 +623,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F R bR' R' F' R bR",
     scramble: "R' U' R' U' F U F R F' R' U' F' U F R F' U R",
-    url: "src/assets/6.png"
+    url: "/6.png"
   },
   7: {
     id: 7,
@@ -631,7 +631,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U R' U R U2' R'",
     scramble: " R U F R' U2 F' U' F U F R F' U2' F' U R'",
-    url: "src/assets/7.png"
+    url: "/7.png"
   },
   8: {
     id: 8,
@@ -639,7 +639,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' R U' R' U2 R",
     scramble: "R' F' R' F U' R' F' R U R F U F' U2' F U R",
-    url: "src/assets/8.png"
+    url: "/8.png"
   },
   9: {
     id: 9,
@@ -647,7 +647,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2 R' U' R U' R'",
     scramble: " F' U F2 R U2 R' U' R U' R' F2' U' F",
-    url: "src/assets/9.png"
+    url: "/9.png"
   },
   10: {
     id: 10,
@@ -655,7 +655,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U2' R U R' U R",
     scramble: " R' U F R' F' R U F' U' F U' R U' R' U2 R",
-    url: "src/assets/10.png"
+    url: "/10.png"
   },
   11: {
     id: 11,
@@ -663,7 +663,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U) (R U' R' U) R U2' R'",
     scramble: "R F R' F' U' F U2 F' U' F U R F' R' U' F U' F' ",
-    url: "src/assets/11.png"
+    url: "/11.png"
   },
   12: {
     id: 12,
@@ -671,7 +671,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U2' R U) (R' U' R U) R' U R'",
     scramble: "R U' F' U' F U' F' U' R U2' F U F' U R' U' F R' ",
-    url: "src/assets/12.png"
+    url: "/12.png"
   },
   13: {
     id: 13,
@@ -679,7 +679,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U) (R U R' U') R U2' R'",
     scramble: "F' U2 F U F' U2 F U F U2 F' U' F U' F'",
-    url: "src/assets/13.png"
+    url: "/13.png"
   },
   14: {
     id: 14,
@@ -687,7 +687,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2' R' U2') (R U2 R' U2') R U' R'",
     scramble: "R U2 R' U' R U' R2' U' R U' R' U2 R",
-    url: "src/assets/14.png"
+    url: "/14.png"
   },
   15: {
     id: 15,
@@ -695,7 +695,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2 R2' U' R2 U' R2' U2 R",
     scramble: "R F' U F U' F' U2' R' U2 F U F' R U' F R'",
-    url: "src/assets/15.png"
+    url: "/15.png"
   },
   16: {
     id: 16,
@@ -703,7 +703,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U2' R2 U R2' U R2 U2' R'",
     scramble: "R U2' F2' U' R2' F2 U' F2' U R2 U F2 U' R'",
-    url: "src/assets/16.png"
+    url: "/16.png"
   },
   17: {
     id: 17,
@@ -711,7 +711,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U2) (R U2' R' U) R U2' R'",
     scramble: "F' U' R U2' R' U' R U2' R' U2' F U' F' U2 F ",
-    url: "src/assets/17.png"
+    url: "/17.png"
   },
   18: {
     id: 18,
@@ -719,7 +719,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2 R' U') (R U2 R' U2') R U' R'",
     scramble: " R' U2' R F U2 F' U' F R' U R F' U' F U' F' ",
-    url: "src/assets/18.png"
+    url: "/18.png"
   },
   19: {
     id: 19,
@@ -727,7 +727,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2' R' (F R' F' R) (U' R U2' R')",
     scramble: " R' U F U F' U' R U F R' U' F' U R U R U' R' ",
-    url: "src/assets/19.png"
+    url: "/19.png"
   },
   20: {
     id: 20,
@@ -735,7 +735,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R U' R' U2) (R U R' F')",
     scramble: " R' F R F U' F R F2 U' F' U F' R' F' U F2'",
-    url: "src/assets/20.png"
+    url: "/20.png"
   },
   21: {
     id: 21,
@@ -743,7 +743,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U R' U' R' F R F'",
     scramble: " F R U R' U' R' F R U' R' F R F' R U R' F2'",
-    url: "src/assets/21.png"
+    url: "/21.png"
   },
   22: {
     id: 22,
@@ -751,7 +751,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F R U R' U' F'",
     scramble: " R F' R' U' R' U' R U R F R' U' R' F' U F R",
-    url: "src/assets/22.png"
+    url: "/22.png"
   },
   23: {
     id: 23,
@@ -759,7 +759,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' R' F R F' U R",
     scramble: " R' U R U2' F U2 R' U' R2 U R' U2' F' ",
-    url: "src/assets/23.png"
+    url: "/23.png"
   },
   24: {
     id: 24,
@@ -767,7 +767,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U2' F' U F U R",
     scramble: " F U' F' U2 R' U2' F U F2' U' F U2 R ",
-    url: "src/assets/24.png"
+    url: "/24.png"
   },
   25: {
     id: 25,
@@ -775,7 +775,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U R2' U' R' F R U R U' F'",
     scramble: "F U R' U2' F' R F U F R' F' U R F' R U' R' ",
-    url: "src/assets/25.png"
+    url: "/25.png"
   },
   26: {
     id: 26,
@@ -783,7 +783,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R U R' U') (R U R' U) (R U2' R' F')",
     scramble: " R' U F R' F R F' U' F' R U2 F R U R' F' ",
-    url: "src/assets/26.png"
+    url: "/26.png"
   },
   27: {
     id: 27,
@@ -791,7 +791,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F R U R' U' F' U R",
     scramble: "F U2' F2' U2' F2 U' R' F' R F' U2' F ",
-    url: "src/assets/27.png"
+    url: "/27.png"
   },
   28: {
     id: 28,
@@ -799,7 +799,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U R' F' U' F U R U2' R'",
     scramble: " R U R U2 F R U' R' U' R U R' F' R' U2' R' ",
-    url: "src/assets/28.png"
+    url: "/28.png"
   },
   29: {
     id: 29,
@@ -807,7 +807,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' F' U' F U2 R",
     scramble: "R' U R' F U2' F' R U F U' R' U2 F' R U2 R ",
-    url: "src/assets/29.png"
+    url: "/29.png"
   },
   30: {
     id: 30,
@@ -815,7 +815,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U R U R' U2' F'",
     scramble: "F U' F R' U2 R F' U' R' U F U2' R F' U2' F'",
-    url: "src/assets/30.png"
+    url: "/30.png"
   },
   31: {
     id: 31,
@@ -823,7 +823,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U2) (R U' R' U2') (R' F R F')",
     scramble: " F U' R U R' F' U2 R U F R' U2' R F' U' R' ",
-    url: "src/assets/31.png"
+    url: "/31.png"
   },
   32: {
     id: 32,
@@ -831,7 +831,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F' U' F U2' R U R' U2 R",
     scramble: "F' U2 F2 U R' U' F' U F R F2' U2 F",
-    url: "src/assets/32.png"
+    url: "/32.png"
   },
   33: {
     id: 33,
@@ -839,7 +839,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U' R' U2') (R' F R F') (U2 R U R')",
     scramble: " F' U2 F2 U2 R U' R' U' F' U F' U F",
-    url: "src/assets/33.png"
+    url: "/33.png"
   },
   34: {
     id: 34,
@@ -847,7 +847,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2 R' U) (R' F R F') R U2 R'",
     scramble: " F U R U' F' U2 R2' F R F' R U2' F R' F' ",
-    url: "src/assets/34.png"
+    url: "/34.png"
   },
   35: {
     id: 35,
@@ -855,7 +855,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' F' U' F R2 U R2' U R2 U2' R'",
     scramble: "F U2 R' U' R2 U' R' U R' U' R F' U' R' U2' R",
-    url: "src/assets/35.png"
+    url: "/35.png"
   },
   36: {
     id: 36,
@@ -863,7 +863,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2 R' U R' F' U' F U R2 U2 R'",
     scramble: "R' U2' F U F2' U F U' F U F' R U F U2 F' ",
-    url: "src/assets/36.png"
+    url: "/36.png"
   },
   37: {
     id: 37,
@@ -871,7 +871,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U2' R' F R F') (R U R' U R)",
     scramble: "R U' F' R' F2 U R U R' U2' F' U F' R F U R'",
-    url: "src/assets/37.png"
+    url: "/37.png"
   },
   38: {
     id: 38,
@@ -879,7 +879,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2' R' U') (R' F R F') (U R U2 R')",
     scramble: "F' U R F R2' U' F' U' F U2 R U' R F' R' U' F ",
-    url: "src/assets/38.png"
+    url: "/38.png"
   },
   39: {
     id: 39,
@@ -887,7 +887,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R U' R' U2) (R U R' U) (R U' R' F')",
     scramble: " R F U2' F' U' R' F R' F' R2 F U2' F' R' ",
-    url: "src/assets/39.png"
+    url: "/39.png"
   },
   40: {
     id: 40,
@@ -895,7 +895,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U2' R U' R' U) (F' U F U) R",
     scramble: " F' R U F' U' F U' R' F U2' R U' F R' F' ",
-    url: "src/assets/40.png"
+    url: "/40.png"
   },
   41: {
     id: 41,
@@ -903,7 +903,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F R U2 R' F' R F U2' F'",
     scramble: "F' U' R U R' F' U2' F U' R' U' F2 R F' R' U R ",
-    url: "src/assets/41.png"
+    url: "/41.png"
   },
   42: {
     id: 42,
@@ -911,7 +911,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F R' F' U2' F R F' R' U2 R",
     scramble: "F R U R' U' F' U' F U' R' U R U F' U2 R' U R ",
-    url: "src/assets/42.png"
+    url: "/42.png"
   },
   43: {
     id: 43,
@@ -919,7 +919,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F R U2 R' U2' F'",
     scramble: "F R' U' F' R F R U' R' U R U' R2' U F' U R ",
-    url: "src/assets/43.png"
+    url: "/43.png"
   },
   44: {
     id: 44,
@@ -927,7 +927,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' R' U2' R U2 bR",
     scramble: "R' F U R F' R' F' U F U' F' U F2 U' R U' F' ",
-    url: "src/assets/44.png"
+    url: "/44.png"
   },
   45: {
     id: 45,
@@ -935,7 +935,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U2 R U2) (R' F' U F R)",
     scramble: " F R U2' F' R' U F R F' U' F' U F2 R' U F' ",
-    url: "src/assets/45.png"
+    url: "/45.png"
   },
   46: {
     id: 46,
@@ -943,7 +943,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' F' U' F R) (U2' R' U2' R)",
     scramble: " F U R' F R U F' R F R U' R' F' R' U' F' ",
-    url: "src/assets/46.png"
+    url: "/46.png"
   },
   47: {
     id: 47,
@@ -951,7 +951,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F R U R' F' R F U' F'",
     scramble: " F' R U2' F R' U R F R' F' U' R F' U2 R' F ",
-    url: "src/assets/47.png"
+    url: "/47.png"
   },
   48: {
     id: 48,
@@ -959,7 +959,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F R' F' U' F R F' R' U R",
     scramble: " F' U' F R U2' R' F' U F R' F' U' F U R ",
-    url: "src/assets/48.png"
+    url: "/48.png"
   },
   49: {
     id: 49,
@@ -967,7 +967,7 @@ export const scrambles = {
     category: "OLL",
     moves: "L' F U (R U R' U2') F' L",
     scramble: " R' F R2 U R' U' F' U R U R' U2 R U R' ",
-    url: "src/assets/49.png"
+    url: "/49.png"
   },
   50: {
     id: 50,
@@ -975,7 +975,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F R' F' U' F R F' R' U' R U R' U R",
     scramble: " F R' F2' U' F U R U' F' U' F U2' F' U' F ",
-    url: "src/assets/50.png"
+    url: "/50.png"
   },
   51: {
     id: 51,
@@ -983,7 +983,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F R2 U R' U R U2' R2' F' R",
     scramble: "R' U' R U2' R' F U F' R' F R U' F' U2' R ",
-    url: "src/assets/51.png"
+    url: "/51.png"
   },
   52: {
     id: 52,
@@ -991,7 +991,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U2' R' F R F' R U' R' U2' R",
     scramble: "F U F' U2 F R' U' R F R' F' U R U2 F' ",
-    url: "src/assets/52.png"
+    url: "/52.png"
   },
   53: {
     id: 53,
@@ -999,7 +999,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R U2 R' U') (F R' F' R) U' F'",
     scramble: "R U' F' U2' F R' U' F' U2' F U F R F' U2' R'",
-    url: "src/assets/53.png"
+    url: "/53.png"
   },
   54: {
     id: 54,
@@ -1007,7 +1007,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U' R U' R') (F U R U' R' F') U2 R",
     scramble: "F' U R U2 R' F U R U2 R' U' R' F' R U2 F ",
-    url: "src/assets/54.png"
+    url: "/54.png"
   },
   55: {
     id: 55,
@@ -1015,7 +1015,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U2' (R' F R F') U2 R",
     scramble: "R' U F R' U F R' F' R U' F' U' R F' U2' F U R ",
-    url: "src/assets/55.png"
+    url: "/55.png"
   },
   56: {
     id: 56,
@@ -1023,7 +1023,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U R U2' R' U2 R U R' F'",
     scramble: "F R U' R' F' U2' F R' U F R' F' R F' U' F R F' ",
-    url: "src/assets/56.png"
+    url: "/56.png"
   },
   57: {
     id: 57,
@@ -1031,7 +1031,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bL' F R U R' U' F' bL",
     scramble: "R U F R' U2' F' U2' F R F' U2 F U2 F' R' ",
-    url: "src/assets/57.png"
+    url: "/57.png"
   },
   58: {
     id: 58,
@@ -1039,7 +1039,7 @@ export const scrambles = {
     category: "OLL",
     moves: "L F R U R' U' F' L'",
     scramble: "F' U' R' F U2 R U2 R' F' R U2' R' U2' R F",
-    url: "src/assets/58.png"
+    url: "/58.png"
   },
   59: {
     id: 59,
@@ -1047,7 +1047,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F U R U' R2' F' R2 U R' U' R",
     scramble: "R' U F' U' R' U2 R U F R' F' U F U R U2' R  ",
-    url: "src/assets/59.png"
+    url: "/59.png"
   },
   60: {
     id: 60,
@@ -1055,7 +1055,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' F' U' F U) (R2 U2 R' U R U2 R')",
     scramble: " R' U2' F U F2' R' F2 U' F2' U R U F R ",
-    url: "src/assets/60.png"
+    url: "/60.png"
   },
   61: {
     id: 61,
@@ -1063,7 +1063,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (U R U' R')2 F'",
     scramble: " R' U2' F U F U R U' F' U' F' U2' F' U2' F",
-    url: "src/assets/61.png"
+    url: "/61.png"
   },
   62: {
     id: 62,
@@ -1071,7 +1071,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U2' R U) R' (F R' F' R) U R",
     scramble: "R U2 F R U R' U' F' R' U' F' U2' F R U' R' ",
-    url: "src/assets/62.png"
+    url: "/62.png"
   },
   63: {
     id: 63,
@@ -1079,7 +1079,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F' U2' F (R U R' U) R",
     scramble: " R' U R U2' R' U2' R U' R' F' U2' F U' R ",
-    url: "src/assets/63.png"
+    url: "/63.png"
   },
   64: {
     id: 64,
@@ -1087,7 +1087,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F' U' F U' R U R' U R",
     scramble: " R' U F U R' U' F' R' F R F' U R U F' U' F R ",
-    url: "src/assets/64.png"
+    url: "/64.png"
   },
   65: {
     id: 65,
@@ -1095,7 +1095,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U (R U' R' U) (R U R' U2') F'",
     scramble: "R U2 R' U2' R' U' F U R F' R F R' U' R F' R' ",
-    url: "src/assets/65.png"
+    url: "/65.png"
   },
   66: {
     id: 66,
@@ -1103,7 +1103,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U2 (R U' R' U') (R U R' U') F'",
     scramble: "F' U2' F U2 F U R' U' F' R F' R' F U F' R F ",
-    url: "src/assets/66.png"
+    url: "/66.png"
   },
   67: {
     id: 67,
@@ -1111,7 +1111,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2' R' F' U' F U' R U' R'",
     scramble: "R F' R' U2' F U2' R' F R F' U F' U2' R F R' ",
-    url: "src/assets/67.png"
+    url: "/67.png"
   },
   68: {
     id: 68,
@@ -1119,7 +1119,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U2' R U) (R' F' U' F R) (U R' U R)",
     scramble: "F' R F U2 R' U2 F R' F' R U' R U2 F' R' F  ",
-    url: "src/assets/68.png"
+    url: "/68.png"
   },
   69: {
     id: 69,
@@ -1127,7 +1127,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R U' R' U) (R U2' R' U2') (R U R' U') F'",
     scramble: " R' F' U F2 U2 F2' U' F2 U' F' U R ",
-    url: "src/assets/69.png"
+    url: "/69.png"
   },
   70: {
     id: 70,
@@ -1135,7 +1135,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2' R' (F R' F' R) (U2' R U' R')",
     scramble: "R' U' R U F R U2 R' F' U' R' U R F U2' F' ",
-    url: "src/assets/70.png"
+    url: "/70.png"
   },
   71: {
     id: 71,
@@ -1143,7 +1143,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U (R U R' U') (R U R' U2') F'",
     scramble: "R U2 R2' U' F' U F R U R U R' U' R U2' R' ",
-    url: "src/assets/71.png"
+    url: "/71.png"
   },
   72: {
     id: 72,
@@ -1151,7 +1151,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U' (R' U' R U) (R' U' R U2) bR",
     scramble: "F' U2' F2 U R U' R' F' U' F' U' F U F' U2 F  ",
-    url: "src/assets/72.png"
+    url: "/72.png"
   },
   73: {
     id: 73,
@@ -1159,7 +1159,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U) (R U' R' U) (R U' R' U') (R' F R F')",
     scramble: "F U2' F' U' F R U' R' F' U' R' U F U' F' U' R ",
-    url: "src/assets/73.png"
+    url: "/73.png"
   },
   74: {
     id: 74,
@@ -1167,7 +1167,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U' R' F) (R2 U' R' U2) (R U R' F') R",
     scramble: "R' U' F' U' F R' U2' F' U2 F R F' U2' F U' R ",
-    url: "src/assets/74.png"
+    url: "/74.png"
   },
   75: {
     id: 75,
@@ -1175,7 +1175,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2' R' U2') (R U R' U2') (R' F R F')",
     scramble: "R U2' R' F R F' U2' F' U' R' U R U2 F U' R' ",
-    url: "src/assets/75.png"
+    url: "/75.png"
   },
   76: {
     id: 76,
@@ -1183,7 +1183,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U2' R2 U R2' U R U2') (R' F R F')",
     scramble: "F' U2 F R' F' R U2 R U F U' F' U2' R' U F ",
-    url: "src/assets/76.png"
+    url: "/76.png"
   },
   77: {
     id: 77,
@@ -1191,7 +1191,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' (R' U2' R U2) (R' U' R U) bR",
     scramble: "F' U R' U2' F' U F U R U' F U2' R U2' R'",
-    url: "src/assets/77.png"
+    url: "/77.png"
   },
   78: {
     id: 78,
@@ -1199,7 +1199,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R U2 R' U2') (R U R' U') F'",
     scramble: "R U' F U2 R U' R' U' F' U R' U2 F' U2 F ",
-    url: "src/assets/78.png"
+    url: "/78.png"
   },
   79: {
     id: 79,
@@ -1207,7 +1207,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' F' U' F U R) U2' (R' U2' R U R' U R)",
     scramble: "F U2 F R' F' U2' R F' U R' U' F' U2 F R ",
-    url: "src/assets/79.png"
+    url: "/79.png"
   },
   80: {
     id: 80,
@@ -1215,7 +1215,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' F' U' F U) (R2 U2 R' U' R U' R')",
     scramble: "R' U F U2 F' U' R U F R' F R F' R U' R' U' F' ",
-    url: "src/assets/80.png"
+    url: "/80.png"
   },
   81: {
     id: 81,
@@ -1223,7 +1223,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U2' (R' U R U') (R' U R U) bR",
     scramble: "R' F U F' R F U2 F' R' U F U F' U' F' U F R  ",
-    url: "src/assets/81.png"
+    url: "/81.png"
   },
   82: {
     id: 82,
@@ -1231,7 +1231,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U2 (R U' R' U) (R U' R' U') F'",
     scramble: "F R' U' R F' R' U2' R F U' R' U' R U R U' R' F' ",
-    url: "src/assets/82.png"
+    url: "/82.png"
   },
   83: {
     id: 83,
@@ -1239,7 +1239,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' (F R' F' R2 U' R') F' U' F R",
     scramble: "R' U2 R U' R' F' U F U' R U2 R' F' U' F U R  ",
-    url: "src/assets/83.png"
+    url: "/83.png"
   },
   84: {
     id: 84,
@@ -1247,7 +1247,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R U' R' U) (R U2' R' U' R U' R') F'",
     scramble: "F U2' F' U F R U' R' U F' U2' F R U R' U' F' ",
-    url: "src/assets/84.png"
+    url: "/84.png"
   },
   85: {
     id: 85,
@@ -1255,7 +1255,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R U R' U') (R U2 R' U' R U' R') F'",
     scramble: " R' F' R U' F' U2' F2 U F' U2' R U' R' U' F ",
-    url: "src/assets/85.png"
+    url: "/85.png"
   },
   86: {
     id: 86,
@@ -1263,7 +1263,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U2' R F U R' U R2 U2' R' F'",
     scramble: " F R F' U R U2 R2' U' R U2 F' U F U R' ",
-    url: "src/assets/86.png"
+    url: "/86.png"
   },
   87: {
     id: 87,
@@ -1271,7 +1271,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2' R' U' R U' R') U' (R' F R F')",
     scramble: " F R U F R U R' U' F' U2' R' U' R U R' F'  ",
-    url: "src/assets/87.png"
+    url: "/87.png"
   },
   88: {
     id: 88,
@@ -1279,7 +1279,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' R F U' (R' U2 R U2) (R U' R' F')",
     scramble: " F' U' F2 R U2 R2' F' R2 U' R' F U' F' ",
-    url: "src/assets/88.png"
+    url: "/88.png"
   },
   89: {
     id: 89,
@@ -1287,7 +1287,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U2 (R U2' R' U) (R U' R' F')",
     scramble: "U' F U2 F' U' F U' F' U' R' U' F R' F' R U R ",
-    url: "src/assets/89.png"
+    url: "/89.png"
   },
   90: {
     id: 90,
@@ -1295,7 +1295,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U2' (R' U2 R U') R' U R bR",
     scramble: " F' U2 F2 U2 F' R U' R' U F U2' R' F' R ",
-    url: "src/assets/90.png"
+    url: "/90.png"
   },
   91: {
     id: 91,
@@ -1303,7 +1303,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U2' (F' U F U') (R U R' U R)",
     scramble: "F U2' F2' U' F U' F U' F' U2 R U' R' F' U F  ",
-    url: "src/assets/91.png"
+    url: "/91.png"
   },
   92: {
     id: 92,
@@ -1311,7 +1311,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' F' U' F) (R U2' R' U2) (R U' R' U2 R)",
     scramble: "R' U2 R2 U R' U R' U R U2' F' U F R U' R'",
-    url: "src/assets/92.png"
+    url: "/92.png"
   },
   93: {
     id: 93,
@@ -1319,7 +1319,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F' U2' F2 (R U R' U') F' U2 R",
     scramble: "F R U2 R' F' U' F U2 F' R F R' U2 R F' R' ",
-    url: "src/assets/93.png"
+    url: "/93.png"
   },
   94: {
     id: 94,
@@ -1327,7 +1327,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U' (R' U R U2') (R' U2 R U') R' U R bR",
     scramble: "R' F' U2' F R U R' U2' R F' R' F U2' F' R F  ",
-    url: "src/assets/94.png"
+    url: "/94.png"
   },
   95: {
     id: 95,
@@ -1335,7 +1335,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' F' U' F) U2' (R U2 R' U) R",
     scramble: " F' U' F U2' F' U2 R' F U' R' F' R U R F ",
-    url: "src/assets/95.png"
+    url: "/95.png"
   },
   96: {
     id: 96,
@@ -1343,7 +1343,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U2' (R' U2 R U2') R' U2 R bR",
     scramble: " F' R U2' F U F' U R' F U F U R U' R' F' ",
-    url: "src/assets/96.png"
+    url: "/96.png"
   },
   97: {
     id: 97,
@@ -1351,7 +1351,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' (R' U' R U) (R' U2' R U2) bR",
     scramble: " F U2 R' F2 R F' R U' R' F R' F' R F' U' F'  ",
-    url: "src/assets/97.png"
+    url: "/97.png"
   },
   98: {
     id: 98,
@@ -1359,7 +1359,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R U R' U') (R U2 R' U2') F'",
     scramble: "R' U2' F R2' F' R F' U F R' F R F' R U R  ",
-    url: "src/assets/98.png"
+    url: "/98.png"
   },
   99: {
     id: 99,
@@ -1367,7 +1367,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2 (R2' F R F' R) U2' R'",
     scramble: "R' U' R U' R2' F R U F' U R F R U2' R' F'  ",
-    url: "src/assets/99.png"
+    url: "/99.png"
   },
   100: {
     id: 100,
@@ -1375,7 +1375,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F R' F' R U R U' R'",
     scramble: "F R F U F' R' F' U R U' F2 U' F2' U2 R' ",
-    url: "src/assets/100.png"
+    url: "/100.png"
   },
   101: {
     id: 101,
@@ -1383,7 +1383,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2 R' U) (R U' R' U2') (R' F R F')",
     scramble: "R U2 R' U2' R U' R' F R' F' R2 U R' F' U' F  ",
-    url: "src/assets/101.png"
+    url: "/101.png"
   },
   102: {
     id: 102,
@@ -1391,7 +1391,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2' R' U') (F R' F' R) (U' R U' R')",
     scramble: "R' U' F' U F R U R F2 U R' U R U2' F2' R' ",
-    url: "src/assets/102.png"
+    url: "/102.png"
   },
   103: {
     id: 103,
@@ -1399,7 +1399,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U R U' R' F'",
     scramble: "F' R F U F' U' F2 U F R' F' U' F' R U' F' R' F ",
-    url: "src/assets/103.png"
+    url: "/103.png"
   },
   104: {
     id: 104,
@@ -1407,7 +1407,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' F' U F R",
     scramble: "R' F2' U R U' F U' F' U2 R' U2' F2 U R ",
-    url: "src/assets/104.png"
+    url: "/104.png"
   },
   105: {
     id: 105,
@@ -1415,7 +1415,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U bR' U' R' U R bR R'",
     scramble: "R' U' R U2' R' F U R' U' F' U R U2 R ",
-    url: "src/assets/105.png"
+    url: "/105.png"
   },
   106: {
     id: 106,
@@ -1423,7 +1423,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' F U R U' R' F' R",
     scramble: "U' F U R' F R F' R' U' R F' R' U' R U R' U R ",
-    url: "src/assets/106.png"
+    url: "/106.png"
   },
   107: {
     id: 107,
@@ -1431,7 +1431,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F R U R2' U' F' U F R F'",
     scramble: "R' U F' U R' U2' F R U R' F' U R U' F U2' R  ",
-    url: "src/assets/107.png"
+    url: "/107.png"
   },
   108: {
     id: 108,
@@ -1439,7 +1439,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U R2' F' U' F U R2 U2' R'",
     scramble: " F U R U' F' U R U2 R' U F' U F U R' U' ",
-    url: "src/assets/108.png"
+    url: "/108.png"
   },
   109: {
     id: 109,
@@ -1447,7 +1447,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U2 R U2 R' F R' F' R U R",
     scramble: "R' U' F' U' R' U F R' F' R F' U' F R U2 F R ",
-    url: "src/assets/109.png"
+    url: "/109.png"
   },
   110: {
     id: 110,
@@ -1455,7 +1455,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R) U2 (R U R' U') R U2' R'",
     scramble: "R' U2' F' U F U' F' U F U' R U' R' U2' R  ",
-    url: "src/assets/110.png"
+    url: "/110.png"
   },
   111: {
     id: 111,
@@ -1463,7 +1463,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U) (R' F R F') (U R U2 R')",
     scramble: "U' F R' F' U' F U2' R F' R' F U2 F' U R ",
-    url: "src/assets/111.png"
+    url: "/111.png"
   },
   112: {
     id: 112,
@@ -1471,7 +1471,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F R' U2' R F R' F' U2 R F'",
     scramble: "F R' F R F' U R' U2' R U R' U F' U' F U R F'",
-    url: "src/assets/112.png"
+    url: "/112.png"
   },
   113: {
     id: 113,
@@ -1479,7 +1479,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U R U' bR R' F' R bR' R'",
     scramble: " R' U' F' R' U' R U' R' U R F R' U F R F' U R  ",
-    url: "src/assets/113.png"
+    url: "/113.png"
   },
   114: {
     id: 114,
@@ -1487,7 +1487,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U' (R' U2 R U) (R' U2' R U) bR",
     scramble: " F U R F U F' U F U' F' R' F U' R' F' R U' F'",
-    url: "src/assets/114.png"
+    url: "/114.png"
   },
   115: {
     id: 115,
@@ -1495,7 +1495,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bL' (F R' F' R U R U' R') bL",
     scramble: "F U R' U' F' U F U R U F' R' U F U2 F' R ",
-    url: "src/assets/115.png"
+    url: "/115.png"
   },
   116: {
     id: 116,
@@ -1503,7 +1503,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R2' U' (R F R' U) R2 U' R' F' R",
     scramble: "R' U' F U R U' R' U' F' U' R F U' R' U2' R F' ",
-    url: "src/assets/116.png"
+    url: "/116.png"
   },
   117: {
     id: 117,
@@ -1511,7 +1511,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R) U2' (R U' R' U) R U2 R'",
     scramble: "F R' F' R U F' U' F U R' U' R U' R' U2 F R F' ",
-    url: "src/assets/117.png"
+    url: "/117.png"
   },
   118: {
     id: 118,
@@ -1519,7 +1519,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' F R F') (R' F R F' R U R') U' R U R'",
     scramble: "F' U2 F U2' F' R' U R U' F2 U R' U' F' R ",
-    url: "src/assets/118.png"
+    url: "/118.png"
   },
   119: {
     id: 119,
@@ -1527,7 +1527,7 @@ export const scrambles = {
     category: "OLL",
     moves: "x' DR R2 U' R' U R' DR'",
     scramble: "F R U R' F' U' R' U F R' F R F' U' F' R ",
-    url: "src/assets/119.png"
+    url: "/119.png"
   },
   120: {
     id: 120,
@@ -1535,7 +1535,7 @@ export const scrambles = {
     category: "OLL",
     moves: "x' L' U2' (R U R' U) L",
     scramble: "R U' R' U' F' U' F' U' F U F U2 R' F' R U F ",
-    url: "src/assets/120.png"
+    url: "/120.png"
   },
   121: {
     id: 121,
@@ -1543,7 +1543,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U2 (R U' R' U) R U2' R' F'",
     scramble: "F U R U R' U2' F' U R U2 R' U' R U' R' ",
-    url: "src/assets/121.png"
+    url: "/121.png"
   },
   122: {
     id: 122,
@@ -1551,7 +1551,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U2' (R' U R U') R' U2 R bR",
     scramble: "R' U' F' U' F U2 R U' F' U2' F U F' U F ",
-    url: "src/assets/122.png"
+    url: "/122.png"
   },
   123: {
     id: 123,
@@ -1559,7 +1559,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U2 R U2' R' F'",
     scramble: "R' F R U F' U2' F' U2 F R' U2' F U F' U R ",
-    url: "src/assets/123.png"
+    url: "/123.png"
   },
   124: {
     id: 124,
@@ -1567,7 +1567,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U2' R' U2 R bR",
     scramble: "F' U' F R F U R' U' R F' R' U2 F R' F' R ",
-    url: "src/assets/124.png"
+    url: "/124.png"
   },
   125: {
     id: 125,
@@ -1575,7 +1575,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' L R' (F R' F' R2) L' bR",
     scramble: "F U R F U R' U R2 U' R' U' F' U2 R' U2 F' ",
-    url: "src/assets/125.png"
+    url: "/125.png"
   },
   126: {
     id: 126,
@@ -1583,7 +1583,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U' R' U) (R U' R' U') (F R' F' R2 U R')",
     scramble: "R U2 F R' F' U2' R' F R2 U R U' R2' F' ",
-    url: "src/assets/126.png"
+    url: "/126.png"
   },
   127: {
     id: 127,
@@ -1591,7 +1591,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R) (U2' R U2 R')",
     scramble: " F' U' R F2 U R U R' U2' F2' R' U F ",
-    url: "src/assets/127.png"
+    url: "/127.png"
   },
   128: {
     id: 128,
@@ -1599,7 +1599,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' R' (F R' F' R2) bR",
     scramble: "F U F R' F2' R U' R' U F U' F' U' R2 U2 R' ",
-    url: "src/assets/128.png"
+    url: "/128.png"
   },
   129: {
     id: 129,
@@ -1607,7 +1607,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U (R U R' U') (R U' R' F')",
     scramble: "F R U R2' F R F2' R F U2' R' U R U F' R' ",
-    url: "src/assets/129.png"
+    url: "/129.png"
   },
   130: {
     id: 130,
@@ -1615,7 +1615,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U' (R' U' R U) R' U R bR",
     scramble: "R' F' U' F2 R' F' R2 F' R' U2 F U' F' U' R F ",
-    url: "src/assets/130.png"
+    url: "/130.png"
   },
   131: {
     id: 131,
@@ -1623,7 +1623,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U R' U' R' F R2 U R' U' F'",
     scramble: "R U2 R U R' U' R' F U F R F' U' F' U2' R' ",
-    url: "src/assets/131.png"
+    url: "/131.png"
   },
   132: {
     id: 132,
@@ -1631,7 +1631,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U) (F' U F U') R U2' R'",
     scramble: "F' U2' F' U' F U F R' U' R' F' R U R U2 F ",
-    url: "src/assets/132.png"
+    url: "/132.png"
   },
   133: {
     id: 133,
@@ -1639,7 +1639,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2' R2' F R F' R U2 R'",
     scramble: "R' U2' F U R' U' R' F' R2 F' R' U R U F R  ",
-    url: "src/assets/133.png"
+    url: "/133.png"
   },
   134: {
     id: 134,
@@ -1647,7 +1647,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U R' U R' F R F' R U2' R'",
     scramble: "F U2 R' U' F U F R F2' R F U' F' U' R' F' ",
-    url: "src/assets/134.png"
+    url: "/134.png"
   },
   135: {
     id: 135,
@@ -1655,7 +1655,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F U R U' R' F') (R' U2' R U R' U R)",
     scramble: "R F' U F2 U R' F R' F' R U' R F2' U' F R' ",
-    url: "src/assets/135.png"
+    url: "/135.png"
   },
   136: {
     id: 136,
@@ -1663,7 +1663,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' R U' R' U F' U' F R U R' U R",
     scramble: "F' R U' R2' U' F R' F R F' U F' R2 U R' F  ",
-    url: "src/assets/136.png"
+    url: "/136.png"
   },
   137: {
     id: 137,
@@ -1671,7 +1671,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F U (R U R' U') (R U R' U') (R U' R' F')",
     scramble: "F U2 R' U2' R F' R' U F' U' F U F' U F R  ",
-    url: "src/assets/137.png"
+    url: "/137.png"
   },
   138: {
     id: 138,
@@ -1679,7 +1679,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U' (R' U' R U) (R' U' R U) R' U R bR",
     scramble: "R' U2' F U2 F' R F U' R U R' U' R U' R' F'  ",
-    url: "src/assets/138.png"
+    url: "/138.png"
   },
   139: {
     id: 139,
@@ -1687,7 +1687,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R) U (R U R' U R U' R' U R U2 R')",
     scramble: "F U R' U' F' R U2' R' U2' R2 U R' U' R U' R' ",
-    url: "src/assets/139.png"
+    url: "/139.png"
   },
   140: {
     id: 140,
@@ -1695,7 +1695,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R) U2' (R U' R' U') R U' R'",
     scramble: "R U' R' U2 F U F2' U F U F U2 F' R U R' ",
-    url: "src/assets/140.png"
+    url: "/140.png"
   },
   141: {
     id: 141,
@@ -1703,7 +1703,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U) (R' F R F') U (R U2' R' U) R U2' R'",
     scramble: "R' U' R U' R' F R' F' R F U2 R U2' R' F' R  ",
-    url: "src/assets/141.png"
+    url: "/141.png"
   },
   142: {
     id: 142,
@@ -1711,7 +1711,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R) U (R U R' U R U2 R')",
     scramble: "R' U R' F R' U R2' U' R2' F' R U' F R2 F' R' ",
-    url: "src/assets/142.png"
+    url: "/142.png"
   },
   143: {
     id: 143,
@@ -1719,7 +1719,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R U' R' U' R U R' F') (R U2 R' U' R U' R')",
     scramble: "F U F' U F U2' F' R' F' R' U' R F R' U R2",
-    url: "src/assets/143.png"
+    url: "/143.png"
   },
   144: {
     id: 144,
@@ -1727,7 +1727,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R U R U') (R2' U2') (R U R' U R)",
     scramble: "R' U' R U' R' U2 R F R F U F' R' F U' F2'",
-    url: "src/assets/144.png"
+    url: "/144.png"
   },
   145: {
     id: 145,
@@ -1735,7 +1735,7 @@ export const scrambles = {
     category: "OLL",
     moves: "x' DR (R U' R U) (R' U' R U) R2' DR'",
     scramble: "R' U' F' U2 R' U' F' U' F R U F R' U R2 ",
-    url: "src/assets/145.png"
+    url: "/145.png"
   },
   146: {
     id: 146,
@@ -1743,7 +1743,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R) U (R U R' U') R U' R'",
     scramble: "F U R U2' F U R U R' F' U' R' F U' F2'  ",
-    url: "src/assets/146.png"
+    url: "/146.png"
   },
   147: {
     id: 147,
@@ -1751,7 +1751,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' F R F') U' (F R' F' R2 U' R')",
     scramble: "F' U2' F U R U R' U' R U' R' U2 F' U F  ",
-    url: "src/assets/147.png"
+    url: "/147.png"
   },
   148: {
     id: 148,
@@ -1759,7 +1759,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2' R2' F' U' F R2 U2' R2' U2' R",
     scramble: "R' U2' R U R2' F R U R U' R' F2' U' F U R  ",
-    url: "src/assets/148.png"
+    url: "/148.png"
   },
   149: {
     id: 149,
@@ -1767,7 +1767,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' F R2 bR' R2' F' R2 bR R'",
     scramble: " R' F' U' F U' R F R U R' U' F' R' U2 R ",
-    url: "src/assets/149.png"
+    url: "/149.png"
   },
   150: {
     id: 150,
@@ -1775,7 +1775,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R bR' R2' F R2 bR R2' F' R",
     scramble: "F R U R' U F' R' F' U' F U R F U2' F'  ",
-    url: "src/assets/150.png"
+    url: "/150.png"
   },
   151: {
     id: 151,
@@ -1783,7 +1783,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R U R' U')2 F'",
     scramble: " R U R' U R' F R2 F' U' R U' R' U F R' F'  ",
-    url: "src/assets/151.png"
+    url: "/151.png"
   },
   152: {
     id: 152,
@@ -1791,7 +1791,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' (R' U' R U) (R' U' R U) bR",
     scramble: "F U R U' R' U F R U R' U' F' U R U2' R' F' ",
-    url: "src/assets/152.png"
+    url: "/152.png"
   },
   153: {
     id: 153,
@@ -1799,7 +1799,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' (R' F R F')2 U R",
     scramble: "F' U' F R U R' F' U F R' F' U' F U F' U' F U R ",
-    url: "src/assets/153.png"
+    url: "/153.png"
   },
   154: {
     id: 154,
@@ -1807,7 +1807,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bL' F (R U R' U') (R U R' U) F' bL",
     scramble: "R U R' F' U' F R U' R' F R U R' U' R U R' U' F'  ",
-    url: "src/assets/154.png"
+    url: "/154.png"
   },
   155: {
     id: 155,
@@ -1815,7 +1815,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F' U' F2 (R' F' R U') (R' F R F')",
     scramble: " F R U2 F' U F U' R' U2' R F' U2 F R' F' ",
-    url: "src/assets/155.png"
+    url: "/155.png"
   },
   156: {
     id: 156,
@@ -1823,7 +1823,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R2' F R F') U (F R' F' R)",
     scramble: " R' F' U2' R U' R' U F U2 F' R U2' R' F R ",
-    url: "src/assets/156.png"
+    url: "/156.png"
   },
   157: {
     id: 157,
@@ -1831,7 +1831,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F U2' F' U') (R' F R U2') R' F' R",
     scramble: "R' F U2 R' F' R F U2' F' U2' R U' R' U2' R ",
-    url: "src/assets/157.png"
+    url: "/157.png"
   },
   158: {
     id: 158,
@@ -1839,7 +1839,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U2) (R' F R F') R U2 R'",
     scramble: "F R' U2' F R F' R' U2 R U2 F' U F U2 F' ",
-    url: "src/assets/158.png"
+    url: "/158.png"
   },
   159: {
     id: 159,
@@ -1847,7 +1847,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F (R' F' U' F U R2) U (R' U' R U') R' F'",
     scramble: "R2' U2 R U2 F' R' F' U F R U F U R ",
-    url: "src/assets/159.png"
+    url: "/159.png"
   },
   160: {
     id: 160,
@@ -1855,7 +1855,7 @@ export const scrambles = {
     category: "OLL",
     moves: "bR' U2' (R' U2' R U) (R' U2' R U) bR",
     scramble: "F2 U2' F' U2' R F R U' R' F' U' R' U' F' ",
-    url: "src/assets/160.png"
+    url: "/160.png"
   },
   161: {
     id: 161,
@@ -1863,7 +1863,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U' R U2') R' U (F' U F U) R",
     scramble: "F U F U F' R' F R U' F' U' R U' R' U' R U R' F' ",
-    url: "src/assets/161.png"
+    url: "/161.png"
   },
   162: {
     id: 162,
@@ -1871,7 +1871,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U2) R U' bR U' bR' U' R'",
     scramble: " F U2 F' U F U2' R U' R' U R U' R' F' ",
-    url: "src/assets/162.png"
+    url: "/162.png"
   },
   163: {
     id: 163,
@@ -1879,7 +1879,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2' R' U') (F R' F' R2) U2' R'",
     scramble: "F U2 R U' F R' U R U' F' R2' U' F' U F R F' ",
-    url: "src/assets/163.png"
+    url: "/163.png"
   },
   164: {
     id: 164,
@@ -1887,7 +1887,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U2 R U2) (R2' F R F') U R",
     scramble: "R' U2' F' U R' F U' F' U R F2 U R U' R' F' R  ",
-    url: "src/assets/164.png"
+    url: "/164.png"
   },
   165: {
     id: 165,
@@ -1895,7 +1895,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2 R' U) (R U' R2' F R F' R) U2' R'",
     scramble: " F R' F' U2' F R U R U' R' F' R' F' U F U R ",
-    url: "src/assets/165.png"
+    url: "/165.png"
   },
   166: {
     id: 166,
@@ -1903,7 +1903,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2' R' U) (F' U' F U2) (R' F R F')",
     scramble: " R' F R U2 R' F' U' F' U F R F R U' R' U' F' ",
-    url: "src/assets/166.png"
+    url: "/166.png"
   },
   167: {
     id: 167,
@@ -1911,7 +1911,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R U2' R2' U2' (R U' R' U2') F R F'",
     scramble: " R' F R U2 F R' F' R U2' F' U2' R U' R'  ",
-    url: "src/assets/167.png"
+    url: "/167.png"
   },
   168: {
     id: 168,
@@ -1919,7 +1919,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F' (R U2' R2' F R F' R U2 R') F",
     scramble: " F R' F' U2' R' F R F' U2 R U2 F' U F ",
-    url: "src/assets/168.png"
+    url: "/168.png"
   },
   169: {
     id: 169,
@@ -1927,7 +1927,7 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U2' F R' F' R2 U R' U R",
     scramble: "F' U2' F R U2' R' U' F R' U' F' U R U' F U F' ",
-    url: "src/assets/169.png"
+    url: "/169.png"
   },
   170: {
     id: 170,
@@ -1935,7 +1935,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2' R2' F R F') U2' R U' R'",
     scramble: "R U2 R' F' U2 F U R' F U R U' F' U R' U' R ",
-    url: "src/assets/170.png"
+    url: "/170.png"
   },
   171: {
     id: 171,
@@ -1943,7 +1943,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R) U2 (R U' R' U) R U2' R'",
     scramble: "R' F R F' R U2 R' U' F' U2' F U' F' U2 F",
-    url: "src/assets/171.png"
+    url: "/171.png"
   },
   172: {
     id: 172,
@@ -1951,7 +1951,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2 R' U') (R U R' U2') (R' F R F')",
     scramble: "F R' F' R F' U2' F U R U2 R' U R U2' R' ",
-    url: "src/assets/172.png"
+    url: "/172.png"
   },
   173: {
     id: 173,
@@ -1959,7 +1959,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U R' U2) F R' F' R2 U2 R'",
     scramble: "R U2' R' U' R U2' R2' F R F' U2 F' U2' F ",
-    url: "src/assets/173.png"
+    url: "/173.png"
   },
   174: {
     id: 174,
@@ -1967,7 +1967,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R' U' R U') R2' F R F' U2 R",
     scramble: "F' U2 F U F' U2 F2 R' F' R U2' R U2 R' ",
-    url: "src/assets/174.png"
+    url: "/174.png"
   },
   175: {
     id: 175,
@@ -1975,7 +1975,7 @@ export const scrambles = {
     category: "OLL",
     moves: "F R' F' U' R U2' R U2 R2' U R",
     scramble: "F R U' R' U' R' F' R U2 R U2 F U' F' U2 R'",
-    url: "src/assets/175.png"
+    url: "/175.png"
   },
   176: {
     id: 176,
@@ -1983,7 +1983,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(R U2 R' U') R U2 R' F' U' F R U2' R'",
     scramble: "R' F' U F U F R F' U2' F' U2' R' U R U2' F ",
-    url: "src/assets/176.png"
+    url: "/176.png"
   },
   177: {
     id: 177,
@@ -1991,7 +1991,7 @@ export const scrambles = {
     category: "OLL",
     moves: "(F R' F' R) U2' (R U2' R' U) R U2' R'",
     scramble: "F R' F' R U' F' U2' F U' R U2 R' U2' R U' R'",
-    url: "src/assets/177.png"
+    url: "/177.png"
   },
   178: {
     id: 178,
@@ -1999,6 +1999,6 @@ export const scrambles = {
     category: "OLL",
     moves: "R' U' R U' R' U F' U' F U2 R",
     scramble: "R' F R F' U R U2 R' U F' U2' F U2 F' U F ",
-    url: "src/assets/178.png"
+    url: "/178.png"
   }
 }
