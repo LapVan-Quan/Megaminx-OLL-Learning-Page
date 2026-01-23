@@ -1,0 +1,116 @@
+/* Practice Page */
+.practice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.practice-card {
+  width: 100%;
+  max-width: 700px;
+  padding: 40px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  text-align: center;
+}
+
+.practice-title {
+  font-size: 38px;
+  margin-bottom: 20px;
+}
+
+.practice-algo {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 14px;
+  padding: 30px;
+  margin: 20px 0;
+}
+
+.algo-name {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.algo-moves {
+  font-size: 20px;
+  font-family: 'Courier New', monospace;
+  color: #e9e9ff;
+  letter-spacing: 0.6px;
+}
+
+.practice-actions {
+  margin-top: 20px;
+}
+
+/* Button style override */
+.btn {
+  font-size: 18px;
+  padding: 14px 24px;
+  border-radius: 14px;
+}
+
+.btn-primary {
+  background: #6b5bff;
+  color: #fff;
+}
+
+.group-selector {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin: 20px 0;
+}
+
+/* Hide the checkbox */
+.group-chip input {
+  display: none;
+}
+
+/* Chip base */
+.group-chip span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 18px;
+  border-radius: 999px;
+  cursor: pointer;
+  user-select: none;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+
+  background: rgba(255, 255, 255, 0.08);
+  color: #e5e7eb;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  transition: all 0.2s ease;
+}
+
+/* Hover */
+.group-chip span:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+/* Checked state */
+.group-chip input:checked + span {
+  background: linear-gradient(135deg, #6366f1, #22d3ee);
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 4px 14px rgba(99, 102, 241, 0.4);
+}
+
+/* Press effect */
+.group-chip span:active {
+  transform: scale(0.96);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+
+  padding: 10px 0 30px;
+}
+
