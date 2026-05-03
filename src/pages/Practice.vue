@@ -5,9 +5,25 @@
         <h1 class="practice-title">Practice Mode</h1>
 
         <div class="practice-algo">
+          <h3 class="algo-name" v-if="currentScramble.name">{{ currentScramble.name }}</h3>
           <h2>Scramble</h2>
           <p>{{ currentScramble["scramble"] || 'Select a group to start' }}</p>
-          <img v-if="currentScramble" :src="currentScramble.url"/>
+          <img v-if="currentScramble.url" :src="currentScramble.url"/>
+          
+          <!-- Algorithm moves hint - hidden by default -->
+          <div v-if="currentScramble.moves" class="hint-container">
+            <button 
+              v-if="!showHint"
+              @click="showHint = true"
+              class="btn btn-hint"
+            >
+              Show Hint
+            </button>
+            <div v-else class="moves-hint">
+              <p class="moves-label">Hint:</p>
+              <p class="algo-moves">{{ currentScramble.moves }}</p>
+            </div>
+          </div>
         </div>
         <div>
           <Timer :onStop="nextScramble"/>
@@ -21,6 +37,7 @@
           >
             Next Scramble
           </button>
+          <p v-if="totalCount > 0" class="counter">{{ usedCount }}/{{ totalCount }} shown</p>
         </div>
       </div>
     </div>
@@ -43,7 +60,7 @@
                 type="checkbox"
                 :value="key"
                 v-model="selectedGroups"
-                @change="nextScramble"
+                @change="onGroupChange"
               />
               <span>{{ key }}</span>
             </label>
@@ -55,30 +72,58 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
 import { scrambles, algsGroups } from '../data/scrambles'
 import Timer from '../components/Timer.vue'
 
-const selectedGroups = ref([])   // multiple groups
+const selectedGroups = ref([])
 const currentScramble = ref({})
 const isOpen = ref(true)
+const usedScrambles = ref(new Set())  // Track used scramble IDs
+const showHint = ref(false)  // Track if hint is shown
 
+const totalCount = computed(() => {
+  if (selectedGroups.value.length === 0) return 0
+  const allCases = selectedGroups.value.flatMap(group => algsGroups[group])
+  return allCases.length
+})
+
+const usedCount = computed(() => usedScrambles.value.size)
+
+function onGroupChange() {
+  usedScrambles.value.clear()  // Reset used scrambles when groups change
+  nextScramble()
+}
 
 function nextScramble() {
   if (selectedGroups.value.length === 0) return
 
-  // collect all case IDs from selected groups
+  // Collect all case IDs from selected groups
   const allCases = selectedGroups.value.flatMap(
     group => algsGroups[group]
   )
 
-  // pick a random case
-  const randomCase =
-    allCases[Math.floor(Math.random() * allCases.length)]
+  // Filter out already used scrambles
+  const availableCases = allCases.filter(caseId => !usedScrambles.value.has(caseId))
 
-  // pick a random scramble from that case
+  // If all cases have been used, reset and show all again
+  if (availableCases.length === 0) {
+    usedScrambles.value.clear()
+    availableCases.push(...allCases)
+  }
+
+  // Pick a random case from available ones
+  const randomCase = availableCases[Math.floor(Math.random() * availableCases.length)]
+
+  // Mark as used
+  usedScrambles.value.add(randomCase)
+
+  // Get the scramble for this case
   const caseScrambles = scrambles[randomCase]
   currentScramble.value = caseScrambles
+
+  // Reset hint visibility for new scramble
+  showHint.value = false
 }
 </script>
 
